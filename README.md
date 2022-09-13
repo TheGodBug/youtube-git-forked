@@ -1,5 +1,6 @@
 # Curso _Git_ & _GitHub_
 
 Bienvenidos al curso.
+este es un nuevo cambio
 
-Este commit es para oficializar nuestra version **1.0.0**.
+quieres dominar el curso de git, yo tambien
